@@ -1,9 +1,9 @@
 {
   "versionCode": 1,
-  "versionName": "1.1",
-  "title": "Nueva actualización disponible",
-  "changes": "• Mejoras de rendimiento\n• Corrección de errores\n• Nuevo diseño",
-  "apkSize": "12.5 MB",
-  "downloadUrl": "https://tu-link.apk",
+  "versionName": "1.2",
+  "title": "Actualización disponible",
+  "changes": "Mejoras y correcciones",
+  "apkSize": "10 MB",
+  "downloadUrl": "https://link.apk",
   "forceUpdate": true
 }
