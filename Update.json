@@ -1,7 +1,13 @@
 {
+  "latestVersion": "1.0",
   "versionCode": 1,
-  "versionName": "1.1",
-  "title": "Nueva actualización disponible",
-  "apkUrl": "https://tu-link-de-apk.apk",
-  "forceUpdate": true
+  "forceUpdate": true,
+  "title": "Nueva actualización",
+  "message": "Hay una nueva versión disponible.",
+  "apkName": "CarlosFFYRMODLite.apk",
+  "changelog": [
+    "Mejor rendimiento",
+    "Corrección de errores",
+    "Nueva interfaz"
+  ]
 }
