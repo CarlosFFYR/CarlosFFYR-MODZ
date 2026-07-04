@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.0.1",
+  "versionCode": 2,
+  "forceUpdate": false,
+  "title": "Nueva actualización",
+  "message": "Hay una nueva versión disponible.",
+  "apkUrl": "https://raw.githubusercontent.com/CarlosFFYRMODz/CarlosFFYR-MODZ-/main/CarlosFFYR-MODZ.apk",
+  "changelog": [
+    "Mejor rendimiento",
+    "Corrección de errores",
+    "Mejor estabilidad"
+  ]
+}
